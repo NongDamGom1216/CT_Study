@@ -1,6 +1,5 @@
 from cgi import test
 
-
 T = int(input())
 
 DAY = ["MON","TUE","WED","THU","FRI","SAT","SUN"]
