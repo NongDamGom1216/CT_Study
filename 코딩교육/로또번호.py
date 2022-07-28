@@ -7,6 +7,7 @@ print(f'게임 수 : {count}')
 
 
 # 내가 혼자 짜본 코드
+
 # for i in range(count):
 #     array = []
 #     for j in range(6):
