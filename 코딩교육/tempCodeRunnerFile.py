@@ -1,1 +1,1 @@
-collections.defaultdict(list)
+words
