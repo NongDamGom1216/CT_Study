@@ -8,9 +8,6 @@ def solution(a, b):
     # 전달까지의 요일 수 + 구하고자 하는 요일 수
     return answer
 
-
-
-
 # 2022년
 def solution2(a, b):
     date = ['FRI', 'SAT', 'SUN', 'MON', 'TUE', 'WED', 'THU']
