@@ -32,7 +32,6 @@ def solution_date(year, month, day , n):
 
 print(solution_date(2021,5,10,1000))
 
-    
 # 요일 구하는 다른 방법
 weekdays = ['일','월','화','수','목','금','토']
 def dayOfWeek(y, m, d):
