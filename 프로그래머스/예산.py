@@ -1,4 +1,5 @@
 # 1단계
+# 스킬체크 1
 
 def solution(d, budget):
     d.sort()
